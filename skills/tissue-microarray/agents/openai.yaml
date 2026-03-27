@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tissue Microarray"
+  short_description: "Segment TMA cores with convex hulls"
+  default_prompt: "Use $tissue-microarray to segment TMA cores from cell centroids and refine them with convex hull boundaries."
